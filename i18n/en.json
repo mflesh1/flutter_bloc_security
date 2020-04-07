@@ -1,0 +1,12 @@
+{
+  "welcome_title" : "Welcome to App!",
+  "welcome_create_account" : "Sign up with email",
+  "welcome_no_account": "Already have an account? ",
+  "welcome_login" : "Log in.",
+  "login_title" : "Login",
+  "register_title" : "Create Account",
+  "register_password_req" : "Password must be at least 8 characters long.",
+  "register_notification_desc" : "I'd like to receive updates about my student(s) bus by:",
+  "register_push_notifications" : "Push Notifications (preferred)",
+  "register_email_notifications" : "Email"
+}
